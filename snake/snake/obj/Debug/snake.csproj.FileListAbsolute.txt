@@ -4,3 +4,9 @@ D:\VS\ooptraining\snake\snake\bin\Debug\snake.pdb
 D:\VS\ooptraining\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
 D:\VS\ooptraining\snake\snake\obj\Debug\snake.exe
 D:\VS\ooptraining\snake\snake\obj\Debug\snake.pdb
+D:\programming\snake-for-OOP\snake\snake\bin\Debug\snake.exe.config
+D:\programming\snake-for-OOP\snake\snake\obj\Debug\snake.exe
+D:\programming\snake-for-OOP\snake\snake\obj\Debug\snake.pdb
+D:\programming\snake-for-OOP\snake\snake\bin\Debug\snake.exe
+D:\programming\snake-for-OOP\snake\snake\bin\Debug\snake.pdb
+D:\programming\snake-for-OOP\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
